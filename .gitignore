@@ -105,7 +105,7 @@ venv.bak/
 
 # dataset folder ignored
 data
-MINIST
+MNIST
 
 60minTut/data
-60minTut/MINIST
+60minTut/MNIST
