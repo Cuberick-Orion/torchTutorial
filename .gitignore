@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# dataset folder ignored
+data
+MINIST
+
+60minTut/data
+60minTut/MINIST
